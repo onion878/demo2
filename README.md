@@ -1,1 +1,1 @@
-gin demo
+gin web demo
